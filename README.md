@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a second-year **Computer Science Engineering (AIML) student** from **Mumbai, India** with a passion for **Artificial Intelligence, Machine Learning, and Data Science**. I love working on AI-driven projects and exploring new technologies to build innovative solutions.<br>
+I'm a Third-year **Computer Science Engineering (AIML) student** from **Mumbai, India** with a passion for **Artificial Intelligence, Machine Learning, and Data Science**. I love working on AI-driven projects and exploring new technologies to build innovative solutions.<br>
 My Portfolio Link: `https://ss-2005.github.io/Sahil-Shaikh-Portfolio/`
 
 ## 🔥 Skills
