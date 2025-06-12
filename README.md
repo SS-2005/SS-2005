@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm a Third-year **Computer Science Engineering (AIML) student** from **Mumbai, India** with a passion for **Artificial Intelligence, Machine Learning, and Data Science**. I love working on AI-driven projects and exploring new technologies to build innovative solutions.<br>
-My Portfolio Link: `https://ss-2005.github.io/Sahil-Shaikh-Portfolio/`
+My Portfolio Link: [Portfolio](https://ss-2005.github.io/Sahil-Shaikh-Portfolio/)
 
 ## 🔥 Skills
 - **Programming Languages:** Python, C, Java, HTML, CSS, JavaScript, PHP (basic), Flask, SQL, Pandas, NumPy
