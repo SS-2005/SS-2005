@@ -1,43 +1,117 @@
-# Hi there! 👋 I'm Sahil Shaikh
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sahil%20Shaikh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20ML%20Builder%20%7C%20System%20Thinker&descAlignY=55&descSize=18" />
 
-## 🚀 About Me
-I'm a Third-year **Computer Science Engineering (AIML) student** from **Mumbai, India** with a passion for **Artificial Intelligence, Machine Learning, and Data Science**. I love working on AI-driven projects and exploring new technologies to build innovative solutions.<br>
-My Portfolio Link: [Portfolio](https://ss2005-portfolio.netlify.app/)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=AI%20%7C%20ML%20Engineer;Building%20Real-World%20AI%20Systems;GenAI%20%2B%20Automation%20Pipelines;Turning%20Ideas%20into%20Production" />
+</a>
 
-## 🔥 Skills
-- **Programming Languages:** Python, C, Java, HTML, CSS, JavaScript, PHP (basic), Flask, SQL, Pandas, NumPy
-- **Developer Tools:** JDK, VS Code, Google Colab, GitHub, Eclipse, Hugging Face, Jupyter Notebook, Anaconda, IDLE, Turbo C
-- **Top Skills:** Exploratory Data Analysis, Data Visualization, Deep Learning
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SS-2005&label=Profile%20Views&color=6366f1&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/SS-2005?label=Followers&style=flat-square&color=6366f1" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Systems-6366f1?style=flat-square" />
+</p>
 
-## 🎓 Education
-- **Bachelor of Engineering (B.E.) - CSE(AIML)**
-  - *Saraswati College of Engineering, Kharghar Navi Mumbai* (2023 - 2027)
-- **HSC - Science**
-  - *Nowrosjee Wadia College, Pune*
-- **SSC - Schooling**
-  - *Don Bosco High School, India*
+</div>
+
+---
+
+## 🌟 About Me
+
+<div align="center">
+
+![Name](https://img.shields.io/badge/👤%20Sahil%20Shaikh-informational?style=flat-square&color=6366f1)
+![Education](https://img.shields.io/badge/🎓%20Saraswati%20College%20of%20Engineering-informational?style=flat-square&color=0f172a)
+![Location](https://img.shields.io/badge/📍%20Mumbai%2C%20India-informational?style=flat-square&color=0f172a)
+![Role](https://img.shields.io/badge/💼%20AI%20%2F%20ML%20Engineer-informational?style=flat-square&color=0f172a)
+
+</div>
+
+<br/>
+
+- 🔭 **Currently Building:** Meeting Intelligence Pipeline · AI Video Synthesis · Secure AI Gateway  
+- 🌱 **Learning:** Advanced ML Systems · GenAI Infrastructure · Cloud (AWS)  
+- 💬 **Ask Me About:** ML Pipelines · FastAPI · System Design · LLM Workflows  
+- 📧 **Email:** sahil.shaikh24@aiml.sce.edu.in  
+- 🌐 **Portfolio:** https://ss2005-portfolio.netlify.app/  
+- ⚡ **Fun Fact:** I don’t just train models, I build systems around them  
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,fastapi,flask,mongodb,mysql,pytorch,opencv,aws,git,github&perline=9" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+- 🔹 **Meeting Intelligence Pipeline**  
+  AI system to process meeting recordings → transcripts → insights, action items & analytics  
+
+- 🔹 **Secure Enterprise AI Gateway**  
+  Privacy-first middleware for LLMs (masking + encryption + controlled restoration)  
+
+- 🔹 **AI Video Synthesis System**  
+  Image + Audio → Lip-synced Video generation (near real-time focus)  
+
+---
 
 ## 💼 Experience
-- **AI/ML Intern** at **Orinson Technologies Private Limited** *(Dec 2024 - Jan 2025)*
-- **CSI Member** at **Computer Society of India** *(July 2024 - Present)*
-- **Coding Club Member** *(Jan 2024 - Present)*
 
-## 🏆 Certifications
-- Unleashing Innovation: The Generative AI Revolution
-- AI for Students: Build Your Own Generative AI Model
-- Complete AI & Machine Learning
-- Data Science
-- Deep Learning: Neural Networks Using JavaScript
+- **AI/ML Intern** — Orinson Technologies *(Dec 2024 – Jan 2025)*  
+- **AI Developer Intern** — Banao Technologies *(Jan 2026 – Present)*  
+- **IBM SkillsBuild** — Agentic AI Program  
 
-## 🏅 Honors & Awards
-- **1st Rank in Academics**
-- **Hackathons Participated:** 3
-- **LeetCode & GitHub:** SS-2005
+---
 
-## 📫 Let's Connect!
-- **Email:** [sahil.shaikh24@aiml.sce.edu.in](mailto:sahil.shaikh24@aiml.sce.edu.in)
-- **LinkedIn:** [sahilshaikh110205](https://www.linkedin.com/in/sahilshaikh110205)
-- **GitHub:** [SS-2005](https://github.com/SS-2005)
+## 📊 GitHub Stats
 
-Looking forward to collaborating on exciting AI/ML projects! 🚀
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SS-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SS-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=SS-2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=f59e0b" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SS-2005&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahilshaikh110205)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/SS-2005)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:sahil.shaikh24@aiml.sce.edu.in)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+
+<sub>⭐ Building real AI systems, not just notebooks</sub>
+
+</div>
