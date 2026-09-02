@@ -29,12 +29,10 @@
 
 <br/>
 
-- 🔭 **Currently Building:** Meeting Intelligence Pipeline · AI Video Synthesis · Secure AI Gateway  
-- 🌱 **Learning:** Advanced ML Systems · GenAI Infrastructure · Cloud (AWS)  
-- 💬 **Ask Me About:** ML Pipelines · FastAPI · System Design · LLM Workflows  
+- 🔭 **Currently:** 4th Year Student - Expected Passout 2027
+- 💬 **Domains:** AI/ML · Python · Gen AI · System Design · LLM Workflows
 - 📧 **Email:** sahil.shaikh24@aiml.sce.edu.in  
 - 🌐 **Portfolio:** https://ss2005-portfolio.netlify.app/  
-- ⚡ **Fun Fact:** I don’t just train models, I build systems around them  
 
 ---
 
@@ -53,9 +51,9 @@
 - 🔹 **Meeting Intelligence Pipeline**  
   AI system to process meeting recordings → transcripts → insights, action items & analytics  
 
-- 🔹 **Secure Enterprise AI Gateway**  
-  Privacy-first middleware for LLMs (masking + encryption + controlled restoration)  
-
+- 🔹 **3D Talking Avatar**  
+  Real-time Speaking 3D AI Avatar (No Latency Delay).
+  
 - 🔹 **AI Video Synthesis System**  
   Image + Audio → Lip-synced Video generation (near real-time focus)  
 
@@ -64,19 +62,13 @@
 ## 💼 Experience
 
 - **AI/ML Intern** — Orinson Technologies *(Dec 2024 – Jan 2025)*  
-- **AI Developer Intern** — Banao Technologies *(Jan 2026 – Present)*  
-- **IBM SkillsBuild** — Agentic AI Program  
+- **AI Developer Intern** — Banao Technologies *(Jan 2026 – July 2026)*
+- **IT & AI Summer Intern** — UrFU *(July 2026)*  
+- **IBM SkillsBuild** — Agentic AI Program  [Training Program]
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SS-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SS-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=ffffff" />
-
-</div>
 
 <div align="center">
 
@@ -86,15 +78,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SS-2005&bg_color=0d1117&color=6366f1&line=6366f1&point=f59e0b&area=true&hide_border=true)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
