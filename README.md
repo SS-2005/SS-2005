@@ -16,7 +16,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - 🔹 **Meeting Intelligence Pipeline**  
   AI system to process meeting recordings → transcripts → insights, action items & analytics  
@@ -59,7 +59,7 @@
 
 ---
 
-## 💼 Experience
+##   Experience
 
 - **AI/ML Intern** — Orinson Technologies *(Dec 2024 – Jan 2025)*  
 - **AI Developer Intern** — Banao Technologies *(Jan 2026 – July 2026)*
@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##   GitHub Stats
 
 <div align="center">
 
@@ -79,7 +79,7 @@
 ---
 
 
-## 🌐 Connect With Me
+##   Connect With Me
 
 <div align="center">
 
@@ -95,6 +95,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
-<sub>⭐ Building real AI systems, not just notebooks</sub>
+<sub>  Building real AI systems, not just notebooks</sub>
 
 </div>
